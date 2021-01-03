@@ -268,13 +268,13 @@ section {
  * =================================================================== */
 
  footer {
-     background-color: #333;
+     background-color: rgb(146, 107, 131) ;
      padding: 50px;
      font-size: 80%;
  }
 
  footer p {
-     color: #888;
+     color: #ffff;
      text-align: center;
      margin-top: 20px;
      font-size: 18px;
@@ -481,16 +481,16 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit]{
-  background-color: #e67e22;
-  border: 1px solid #e67e22;
+  background-color: #ac8551;
+  border: 1px solid #ac8551;
   color: #fff;
   margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited{
-  border: 1px solid #e67e22;
-  color: #e67e22;
+  border: 1px solid #ac8551;
+  color: ##ac8551;
 }
 
 .btn:hover,
@@ -498,17 +498,17 @@ input[type=submit]{
 input[type=submit]:hover,
 input[type=submit]:active
 {
-  background-color: #cf6d17;
+  background-color: #6b4c23;
 }
 
 .btn-full:hover,
 .btn-full:active,
 input[type=submit]{
-  border: 1px solid  #cf6d17;
+  border: 1px solid  #6b4c23;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active{
-  border: 1px solid #e67e22;
+  border: 1px solid #ac8551;
   color: #fff;
 }
