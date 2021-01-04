@@ -203,7 +203,7 @@ section {
 
 .bg-primary {
     color: #fff;
-    background-color:	rgb(146.064 107.457 131.223) !important;
+    background: linear-gradient(to top left, #a38db5, #554463) !important;
 }
 
 .text-primary {
@@ -268,7 +268,7 @@ section {
  * =================================================================== */
 
  footer {
-     background-color: rgb(146, 107, 131) ;
+     background: linear-gradient(to top left, #a38db5, #554463);
      padding: 50px;
      font-size: 80%;
  }
