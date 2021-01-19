@@ -245,7 +245,14 @@ section {
     border-top: 5px solid #fff;
  }
 
-
+ hr.new1 {
+     border: dotted #5f5072 4px;
+     border-bottom: 0;
+     border-right: 0;
+     border-left: 0;
+     width: 20%;
+     /* margin: 100px auto; */
+ }
 
 /* 01. Timeline Styles
  * =================================================================== */
